@@ -85,7 +85,6 @@ pickleshare==0.7.5
 Pillow==9.0.1
 pip-chill==1.0.1
 platformdirs==2.5.0
-powerline-status==2.8.1
 prometheus-client==0.13.1
 prompt-toolkit==3.0.28
 protobuf==3.12.4

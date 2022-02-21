@@ -139,7 +139,6 @@ traitlets==5.1.1
 typing_extensions==4.1.1
 tzdata==2021.5
 tzlocal==4.1
-ubuntu-drivers-common==0.0.0
 ufw==0.36
 urllib3==1.26.2
 validators==0.18.2

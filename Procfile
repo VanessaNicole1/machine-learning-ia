@@ -1,1 +1,1 @@
-web: gunicorn example.py --log-file -
+web: streamlit run example.py

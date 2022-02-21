@@ -1,6 +1,5 @@
 appdirs
 aws-mfa
-brlapi
 certifi
 chardet
 chrome-gnome-shell

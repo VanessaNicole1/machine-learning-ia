@@ -2,7 +2,6 @@ appdirs
 aws-mfa
 certifi
 chardet
-chrome-gnome-shell
 colorama
 command-not-found
 cryptography

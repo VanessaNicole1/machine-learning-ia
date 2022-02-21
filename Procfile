@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run example.py
+web: gunicorn example:app --log-file -

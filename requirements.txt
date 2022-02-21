@@ -105,7 +105,6 @@ pyOpenSSL==20.0.1
 pyparsing==3.0.7
 pyRFC3339==1.1
 pyrsistent==0.18.1
-python-apt===2.2.0-ubuntu0.21.04.1
 python-dateutil==2.8.2
 python-debian==0.1.39
 python-xlib==0.29

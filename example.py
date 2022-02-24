@@ -25,7 +25,7 @@ df = user_input_features()
 
 dfs = pd.read_csv("IRIS.csv")
 
-st.subheader('Dataset flor de lirio')
+st.subheader('Dataset flor de lirio a utilizar')
 st.write(dfs)
 
 iris = datasets.load_iris()
